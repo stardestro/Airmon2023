@@ -8,4 +8,4 @@
 
 https://stardestro.github.io/Airmon2023/Miscellaneous/map.html
 
- Project worked on at ourCS@DFW. A UT Arlington event
+ Project worked on at OurCS@DFW
